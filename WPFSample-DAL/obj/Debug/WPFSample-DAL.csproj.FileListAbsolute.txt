@@ -1,0 +1,14 @@
+E:\Sistemas de gestión\Unidades\Unidad 6\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-DAL.dll
+E:\Sistemas de gestión\Unidades\Unidad 6\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-DAL.pdb
+E:\Sistemas de gestión\Unidades\Unidad 6\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-Ent.dll
+E:\Sistemas de gestión\Unidades\Unidad 6\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-Ent.pdb
+E:\Sistemas de gestión\Unidades\Unidad 6\WPFSample\WPFSample-DAL\obj\Debug\WPFSample-DAL.csprojResolveAssemblyReference.cache
+E:\Sistemas de gestión\Unidades\Unidad 6\WPFSample\WPFSample-DAL\obj\Debug\WPFSample-DAL.dll
+E:\Sistemas de gestión\Unidades\Unidad 6\WPFSample\WPFSample-DAL\obj\Debug\WPFSample-DAL.pdb
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-DAL.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-DAL.pdb
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-Ent.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\WPFSample\WPFSample-DAL\bin\Debug\WPFSample-Ent.pdb
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\WPFSample\WPFSample-DAL\obj\Debug\WPFSample-DAL.csprojResolveAssemblyReference.cache
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\WPFSample\WPFSample-DAL\obj\Debug\WPFSample-DAL.dll
+C:\Users\jmramirez\Documents\Visual Studio 2015\Projects\WPFSample\WPFSample-DAL\obj\Debug\WPFSample-DAL.pdb
